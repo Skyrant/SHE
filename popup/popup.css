@@ -1,0 +1,8 @@
+﻿* { margin: 0; padding: 0; border: 0; outline: 0; vertical-align: baseline; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-tap-highlight-color: transparent; }
+button { background:none; border:0; color:#000; font: 14px Arial, Helvetica, sans-serif;  }
+.menu ul { list-style:none; }
+
+body { background: #fff; font: 12px Arial, Helvetica, sans-serif; color: #000; font-weight:normal; }
+body * { box-sizing: border-box; -webkit-box-sizing: border-box; }
+
+#wrapper { width:300px; padding:10px 0; text-align:center; }
